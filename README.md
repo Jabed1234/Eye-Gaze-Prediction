@@ -82,18 +82,21 @@ Only synthetic images with labeled gaze vectors were used for model training.
 
 ## 🚀 Getting Started
 
-```bash
+
 # Clone the repo
+```bash
 git clone https://github.com/yourusername/eye-gaze-estimation.git
 cd eye-gaze-estimation
-
+```
 # (Optional) Create a virtual environment
+```bash
 python -m venv gaze-env
 source gaze-env/bin/activate  # or use 'gaze-env\Scripts\activate' on Windows
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 
 ## 👉File Path and Structure
 📦 eye-gaze-estimation/
